@@ -6,12 +6,17 @@ This project is a fully functional shopping cart application built using Spring 
 __Technologies Used:__
 
 Spring Boot
+
 Java
+
 MySQL
 
 __Features:__
 
 User authentication and authorization
+
 CRUD operations for cart items
+
 RESTful APIs
+
 Database integration with MySQL
